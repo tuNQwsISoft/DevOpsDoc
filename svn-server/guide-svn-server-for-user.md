@@ -35,15 +35,15 @@ Chuột phải vào thư mục vừa tạo > TortoiseSVN > Checkout...
 
 Điền url của repository > OK
 
-![Input URL](resources\InputUrl.png)
+![Input URL](resources/InputUrl.png)
 
 Checkout Finished! > OK
 
-![Check out Finished](resources\CheckoutFinished.png)
+![Check out Finished](resources/CheckoutFinished.png)
 
 Sau đó, thư mục hiện tại là thư mục đã clone repository về
 
-![Checkout result](resources\CheckoutResult.png)
+![Checkout result](resources/CheckoutResult.png)
 
 ### Commit thay đổi từ local lên SVN server
 
@@ -51,13 +51,13 @@ Sau khi thay đổi các file ở thư mục repository ở local, chúng ta là
 
 Ví dụ, chúng ta thêm 1 file `index.js` vào folder `tuan.test`
 
-![index.js](resources\FileIndexJs.png)
+![index.js](resources/FileIndexJs.png)
 
 ### Bước 1. Chọn commit để gửi các thay đổi lên server:
 
 Chuột phải vào folder `tuan.test` > TortoiseSVN > Commit...
 
-![Commit change](resources\CommitChange.png)
+![Commit change](resources/CommitChange.png)
 
 ### Bước 2. Nhập message (nếu cần) và nhấn OK:
 
